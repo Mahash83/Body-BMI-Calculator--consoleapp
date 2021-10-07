@@ -1,0 +1,16 @@
+E:\program\training2.1\bin\Debug\net5.0\training2.1.exe
+E:\program\training2.1\bin\Debug\net5.0\training2.1.deps.json
+E:\program\training2.1\bin\Debug\net5.0\training2.1.runtimeconfig.json
+E:\program\training2.1\bin\Debug\net5.0\training2.1.runtimeconfig.dev.json
+E:\program\training2.1\bin\Debug\net5.0\training2.1.dll
+E:\program\training2.1\bin\Debug\net5.0\ref\training2.1.dll
+E:\program\training2.1\bin\Debug\net5.0\training2.1.pdb
+E:\program\training2.1\obj\Debug\net5.0\training2.1.csproj.AssemblyReference.cache
+E:\program\training2.1\obj\Debug\net5.0\training2.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\program\training2.1\obj\Debug\net5.0\training2.1.AssemblyInfoInputs.cache
+E:\program\training2.1\obj\Debug\net5.0\training2.1.AssemblyInfo.cs
+E:\program\training2.1\obj\Debug\net5.0\training2.1.csproj.CoreCompileInputs.cache
+E:\program\training2.1\obj\Debug\net5.0\training2.1.dll
+E:\program\training2.1\obj\Debug\net5.0\ref\training2.1.dll
+E:\program\training2.1\obj\Debug\net5.0\training2.1.pdb
+E:\program\training2.1\obj\Debug\net5.0\training2.1.genruntimeconfig.cache
